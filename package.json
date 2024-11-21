@@ -1,0 +1,10 @@
+{
+  "name": "eval-promises",
+  "scripts": {
+    "start:ex1": "bun run ./ex1/index.ts",
+    "start:ex2": "bun run ./ex2/index.ts",
+    "start:ex3": "bun run ./ex3/index.ts",
+    "start:ex4": "bun run ./ex4/index.ts",
+    "start:all": "bun run ./ex1/index.ts && bun run ./ex2/index.ts && bun run ./ex3/index.ts && bun run ./ex4/index.ts"
+  },
+}
